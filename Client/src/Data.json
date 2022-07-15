@@ -1,0 +1,35 @@
+[
+    {
+        "id": "id1",
+        "title": "product1",
+        "imageUrl":"/images/camera.jpg",
+        "desc": "this is product 1",
+        "price": 60,
+        "sizes": ["S", "M"]
+    },
+    {
+        "id": "id2",
+        "title": "product2",
+        "imageUrl":"/images/R.jpg",
+        "desc": "this is product 2",
+        "price": 40,
+        "sizes": ["XL", "L"]
+    },
+    {
+        "id": "id3",
+        "title": "product3",
+        "imageUrl":"/images/keyboard2.webp",
+        "desc": "this is product 3",
+        "price": 300,
+        "sizes": ["S", "M","L"]
+    },
+    {
+        "id": "id4",
+        "title": "product4",
+        "imageUrl":"/images/handfree.jpg",
+        "desc": "this is product 4",
+        "price": 50,
+        "sizes": ["S", "XL"]
+    }
+
+]

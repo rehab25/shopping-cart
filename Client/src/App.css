@@ -1,0 +1,50 @@
+.mainColor{
+  background-color: rgb(11, 11, 36);
+}
+a{
+  color:#0b0b24 ;
+  transition: all .5s ease-in-out;
+}
+a:hover  , .active{
+  color:#e85146
+}
+.bg-gray{
+  background-color: #bbb;
+}
+.bg-grayDDD{
+  background-color: #ddddddd4;
+}
+.mailnFontFamily{
+  font-family: 'Courier New', Courier, monospace;
+
+}
+.images-style{
+  /* width: 200px; */
+  height: 180px;
+}
+.btn-success{
+  background-color: rgb(11, 11, 36) !important;
+}
+.closeProduct{
+  cursor: pointer;
+}
+.line{
+  background-color: #555;
+  height: .12rem;
+  width: 90%;
+  margin:2rem auto;
+}
+.imgsSize{
+  width: 150px;
+  height: 180px;
+}
+.zIndex{z-index: 99;}
+.cursurePointer:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .table tr, .table td{
+  display: block;
+}
+}
